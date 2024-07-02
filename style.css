@@ -4,6 +4,9 @@
   color: rgba(222, 226, 230, 0.75);
 }
 
+.textsub {
+  color: white;
+}
 /*.hea-1 {
   background-color: rgb(219, 166, 219);
 }*/
@@ -25,6 +28,10 @@
   width: 60%;
   text-align: center;
   align-content: center;
+}
+
+.titulob h1 a {
+  color: rgb(209, 119, 134);
 }
 
 .login {
@@ -61,10 +68,11 @@
 
 .banerprintex {
   width: 50%;
+  font-size: 20px;
 }
 
-.banerprintex {
-  font-size: 20px;
+.banertext {
+  color: rgb(71, 154, 223);
 }
 
 .caratprin {
@@ -166,4 +174,14 @@
 
 .nonelist {
   text-decoration: none;
+}
+
+.footer {
+  height: 200px;
+  background-color: rgb(209, 119, 134);
+  border-radius: 10px;
+}
+.footer p {
+  padding: 0% 40%;
+  padding-top: 50px;
 }
